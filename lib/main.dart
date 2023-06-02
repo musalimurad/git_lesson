@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Material App',
       home: LoginPage(),
-      // salam
+      // salams
     );
   }
 }
